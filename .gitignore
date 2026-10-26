@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pt
+input.txt
+.DS_Store
+
+# Local tools, environments, and settings
+.vscode/
+.python/
+.cache/
+.tools/
+venv/
+*.py[cod]
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
